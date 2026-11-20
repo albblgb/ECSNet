@@ -38,7 +38,7 @@ WPR-1 column of Table 2). `evaluate.py` prints its fingerprint — `b099c0940af0
 — at start-up. If you see a different one, the key file is not the released one
 and nothing will extract.
 
-Download the weights (`pretrain.zip`) from the link in the paper, and unzip them
+Download the weights (`pretrain.zip`) from the link [https://drive.google.com/drive/folders/1q21sEF-t3u8L3sWFJYf6yGRfNz_fUu2G?usp=drive_link], and unzip them
 so that `pretrain/` sits next to the code, or point `ECSNET_CKPT` at wherever
 you put it.
 
